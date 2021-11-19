@@ -1,2 +1,3 @@
-# yumilih.sihab123.github.io
-yu milih aku yuk
+# e-voting
+
+Aplikasi E-voting berbasis web
