@@ -1,3 +1,3 @@
-# e-voting
+# yu-milih 
 
-Aplikasi E-voting berbasis web
+Aplikasi yu-milih berbasis web
